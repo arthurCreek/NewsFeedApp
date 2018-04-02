@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project News App</string>
+
+    //Strings for News Item texts
+    <string name="title_name">Title</string>
+    <string name="section_name">Section</string>
+    <string name="author_name">Author(s)</string>
+    <string name="publish_date">Published</string>
+    <string name="not_available">Not Available</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="enter_search">Please enter a search term</string>
+    <string name="author_unavailable">Author Unavailable</string>
+    <string name="publish_unavailable">Published Unavailable</string>
+
+
+</resources>
