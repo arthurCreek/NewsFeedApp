@@ -1,5 +1,5 @@
 # NewsFeedApp
-Udacity Project - News Feed App
+
 Project Overview
 ----------
 The goal is to create a News feed app which gives a user regularly-updated news from the internet related 
@@ -14,17 +14,11 @@ the information in your app, and properly displaying that information. Practicin
 imperative in order to build apps that delight and surprise users by anticipating their needs and 
 supplying them with relevant information.
 
-What will I learn?
-This project is about combining various ideas and skills we’ve been practicing throughout the course. 
-They include:
-----------
+## What will I learn?
+This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
-Connecting to an API
-
-Parsing the response of the API
-
-Handling error cases gracefully
-
-Updating information regularly
-
-Doing network operations independent of the Activity lifecycle
+* Connecting to an API
+* Parsing the response of the API
+* Handling error cases gracefully
+* Updating information regularly
+* Doing network operations independent of the Activity lifecycle
